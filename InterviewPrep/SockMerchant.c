@@ -25,10 +25,6 @@ int sockMerchant(int n, int ar_count, int* ar) {
             }
         }
     }
-    for (int j = 0; j < n; j++) {
-      printf("%d ", par[j]);
-    }
-    return pairs;
 }
 
 int main()
